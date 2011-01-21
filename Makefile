@@ -1,4 +1,4 @@
-CC=gcc -Wall
+CC=gcc -m32 -Wall
 
 DISTFILES=README COPYING ChangeLog Makefile hlex.l hparse.y pexports.h pexports.c str_tree.c str_tree.h
 
